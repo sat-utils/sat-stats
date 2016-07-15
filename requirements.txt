@@ -1,0 +1,1 @@
+rasterstats==0.10.3
